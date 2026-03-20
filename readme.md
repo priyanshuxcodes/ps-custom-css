@@ -34,7 +34,9 @@ npm install ps-custom-css
 
 ##  Usage
 
-Simply add utility classes to your HTML elements:
+Add script <script src="node_modules/ps-custom-css/src/index.js"></script>
+
+Now, Simply add utility classes to your HTML elements:
 
 ```html
 <h1 class="Chai-text-red Chai-p-2">
