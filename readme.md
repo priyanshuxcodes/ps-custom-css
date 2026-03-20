@@ -1,4 +1,4 @@
-# Chai CSS ☕
+# PS-CUSTOM-CSS ☕
 
 A lightweight utility-first CSS engine inspired by Tailwind CSS — built with pure JavaScript.
 
@@ -126,32 +126,6 @@ Chai CSS scans your HTML for utility classes and dynamically applies styles usin
 
 ---
 
-## 🛣️ Roadmap
-
-* [ ] Hover support (`hover:Chai-bg-red`)
-* [ ] Responsive utilities (`md:Chai-p-4`)
-* [ ] Dynamic values (`Chai-p-[20px]`)
-* [ ] CLI tool for build-time optimization
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repo
-2. Create a new branch
-3. Make your changes
-4. Submit a PR
-
----
-
-## 📄 License
-
-MIT License
-
----
-
 ## 💡 Inspiration
 
 Inspired by utility-first frameworks like Tailwind CSS.
@@ -160,5 +134,5 @@ Inspired by utility-first frameworks like Tailwind CSS.
 
 ## 👨‍💻 Author
 
-Priyanshu
+Priyanshu Sharma \\
 Aspiring Software Developer 🚀
