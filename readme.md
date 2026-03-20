@@ -35,6 +35,7 @@ npm install ps-custom-css
 ##  Usage
 
 Add this script inside the head of your index.html file
+
 ```html
 <script src="node_modules/ps-custom-css/src/index.js"></script>
 ```
