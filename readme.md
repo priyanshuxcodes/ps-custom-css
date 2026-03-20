@@ -1,4 +1,4 @@
-# PS-CUSTOM-CSS ☕
+# PS-CUSTOM-CSS 
 
 A lightweight utility-first CSS engine inspired by Tailwind CSS — built with pure JavaScript.
 
@@ -6,7 +6,7 @@ Chai CSS lets you style your HTML using utility classes without writing traditio
 
 ---
 
-## 🚀 Features
+##  Features
 
 * ⚡ Utility-first approach
 * 🧠 Zero configuration
@@ -16,7 +16,7 @@ Chai CSS lets you style your HTML using utility classes without writing traditio
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 npm install ps-custom-css
@@ -24,7 +24,7 @@ npm install ps-custom-css
 
 ---
 
-## 🌐 CDN Usage
+##  CDN Usage
 
 ```html
 <script src="https://cdn.jsdelivr.net/npm/ps-custom-css"></script>
@@ -32,7 +32,7 @@ npm install ps-custom-css
 
 ---
 
-## 🧪 Usage
+##  Usage
 
 Simply add utility classes to your HTML elements:
 
@@ -48,7 +48,7 @@ Simply add utility classes to your HTML elements:
 
 ---
 
-## 🎨 Available Utilities
+##  Available Utilities
 
 ### 📦 Padding
 
@@ -118,7 +118,7 @@ Chai CSS scans your HTML for utility classes and dynamically applies styles usin
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * No pseudo-classes (like `:hover`) yet
 * No responsive utilities yet
@@ -126,13 +126,13 @@ Chai CSS scans your HTML for utility classes and dynamically applies styles usin
 
 ---
 
-## 💡 Inspiration
+##  Inspiration
 
 Inspired by utility-first frameworks like Tailwind CSS.
 
 ---
 
-## 👨‍💻 Author
+## 👨 Author
 
 Priyanshu Sharma \\
-Aspiring Software Developer 🚀
+Aspiring Software Developer 
